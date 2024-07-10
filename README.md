@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/revanth-nd-09/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="rakeshdharoori@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-</a>
 </div>
 
   ---
@@ -25,6 +22,7 @@
 
 -  👨‍🎓 Master of Science in Computer Science (Intelligent Systems).
 - ✍️  I share my knowledge at https://medium.com/@rakeshacharya.daruri
+- 📫  Contact me at - rakeshdharoori@gmail.com
 
 ---
 
