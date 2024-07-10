@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rakesh Acharya</h1>
-<h3 align="center"> Software Engineering | Full Stack - DevOps - Cloud | Java, SpringBoot, React</h3>
+<h3 align="center"> Software Engineering | Full Stack - DevOps - Cloud | Java, SpringBoot, React, Microservices</h3>
+<div id="badges" align='center'>
+<a>
+  <img src="https://komarev.com/ghpvc/?username=rakeshacharya-d&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt=""/>
+</a>
+<a href="https://www.linkedin.com/in/revanth-nd-09/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="rakeshdharoori@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+</a>
+</div>
 
   ---
 ### :person_in_tuxedo: Know Me :
@@ -16,13 +27,6 @@
 - ✍️  I share my knowledge at https://medium.com/@rakeshacharya.daruri
 
 ---
-
-- 📫 How to reach me **rakeshdharoori@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakeshacharya-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rakesh Acharya" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
