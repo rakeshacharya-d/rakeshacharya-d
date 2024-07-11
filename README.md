@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Acharya</h1>
-<h3 align="center"> Software Engineering | Full Stack - DevOps - Cloud | GenAI - MLOps </h3>
+<h3 align="center"> Software Engineering | Full Stack - DevOps - Cloud | Problem solving using code </h3>
 <div id="badges" align='center'>
 <a>
   <img src="https://komarev.com/ghpvc/?username=rakeshacharya-d&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt=""/>
