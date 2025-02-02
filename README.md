@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Acharya</h1>
-<h3 align="center"> Software Engineering | Backend - Cloud - ML Systems| Passionate about building scalable solutions </h3>
+<h3 align="center"> Software Development | FullStack - Cloud - ML Systems| Passionate about building scalable solutions </h3>
 <div id="badges" align='center'>
 <a>
   <img src="https://komarev.com/ghpvc/?username=rakeshacharya-d&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt=""/>
@@ -13,11 +13,9 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
 </div>
 
-- :man_technologist: Experienced Software Engineer specializing in developing APIs (REST, gRPC, GraphQL) and Microservices.
+- :man_technologist: Experienced Software Engineer specializing in developing scalable APIs (REST, gRPC, GraphQL), Microservices, Database optimization and Cloud Services.
 
 - :telescope: Exploring deep into the technical architecture of applications. I am curious about MLOps and GenAI.
-
--  👨‍🎓 Master of Science in Computer Science (Intelligent Systems).
 - ✍️  I share my knowledge at https://medium.com/@rakeshacharya.daruri
 - 📫  Contact me at - rakeshdharoori@gmail.com
 
